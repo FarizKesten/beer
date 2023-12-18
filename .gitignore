@@ -1,0 +1,10 @@
+CMakeCache.txt
+CMakePresets.json
+CMakeUserPresets.json
+conan_toolchain.cmake
+build/*
+CMakeFiles/*
+query.json
+tests/Makefile
+conaninfo.txt
+graph_info.json
